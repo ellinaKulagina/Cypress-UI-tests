@@ -7,7 +7,7 @@ And there are also two page files in ../cypress/integration/pages
 Test scenarios cover all provided acceptance criterias, and scenario 'Login with invalid email' covers a found bug.
 This scenario will pass after fixing the bug.
 
-Title: Email validation is broken
+Bug title: Email validation is broken
 Steps:
 1. On the login page enter valid password and email
 2. Delete last symbol (few symbols) from entered email
