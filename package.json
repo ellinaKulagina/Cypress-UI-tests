@@ -1,0 +1,18 @@
+{
+  "name": "orkestro_ui_tests",
+  "version": "1.0.0",
+  "description": "tests for orkestro login page",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.4.1",
+    "mocha": "^6.2.0",
+    "mochawesome": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Ellina Kulagina",
+  "license": "ISC"
+}
